@@ -1,6 +1,12 @@
 🧬 How to Use My DNA Sequence Analyzer & Visualizer (Step-by-Step Guide)
 I recently developed a bioinformatics mini-project, DNA-Sequence-Analyzer-Visualizer, a Python-based tool designed to analyze and visualize DNA sequences.
 If you're a student exploring bioinformatics, computational biology, or biomedical data analysis, here’s how you can use it:
+Option 1: Run in Google Colab (Recommended)
+Open Google Colab
+Upload this notebook or paste the code
+Run the cells and upload your DNA file when prompted
+View GC content, base counts, and pie chart
+option 2 
 🔹 Step 1: Open the Notebook
 Visit the GitHub repository and open the Jupyter Notebook (.ipynb file).
 You can:
