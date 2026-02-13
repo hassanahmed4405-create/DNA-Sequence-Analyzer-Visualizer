@@ -29,6 +29,10 @@ The tool will automatically:
 ✅ Calculate GC content (%)
 ✅ Display base distribution
 ✅ Generate a visualization chart
+option 3 
+Run Locally
+Clone the repository:
+git clone https://github.com/yourusername/DNA-Sequence-Analyzer-Visualizer.git
 🔬 Why This Matters
 Base composition and GC content analysis are foundational concepts in genomics and molecular biology.
 This project demonstrates how biological sequence data can be processed, analyzed, and visualized using Python — bridging life sciences and computational methods.
